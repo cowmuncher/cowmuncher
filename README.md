@@ -1,3 +1,3 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Helvetica&size=30&pause=1000&color=F7F7F7&width=435&lines=Cowmuncher)](https://git.io/typing-svg)
+[![Typing SVG]([![Typing SVG](https://readme-typing-svg.demolab.com?font=Google+Sans+Code&size=30&duration=2000&color=F7F7F7&multiline=true&width=500&height=500&separator=%3D&lines=%23include+%3Ciostream%3E%3D+%3Dint+main()+%7B%3D%E2%80%83%E2%80%83std%3A%3Acout+%3C%3C+%22Cowmuncher%22;%3D%E2%80%83%E2%80%83return+0;%3D%7D)](https://git.io/typing-svg))
 
-![Cowmuncher](https://github.com/cowmuncher/cowmuncher/blob/fb9ab89feaae836cacdf79496bc976ee5a456e82/image2.png)
+<!--![Cowmuncher](https://github.com/cowmuncher/cowmuncher/blob/fb9ab89feaae836cacdf79496bc976ee5a456e82/image2.png)
